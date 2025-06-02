@@ -1,1 +1,1 @@
-# Fronted_dashboard
+# Frontend Dashboard Assignment\n\nRun the following commands:\n\n```bash\nnpm install\nnpm start\n```
